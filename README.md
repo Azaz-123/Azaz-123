@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Azaz-123
-- 👀 I’m interested in ...Computer Vision, Natural Language Processing, Web Development, App Development 
-- 🌱 I’m currently learning ... Natural language Processing & Front-end Development
+- 👀 I’m interested in ...Software Deveopment, App Development, Machine Learning & Natural Language Processing  
+- 🌱 I’m currently learning ... Front-end Development Natural language Processing 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
