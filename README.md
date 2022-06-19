@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ahmed Azaz
 - 👀 I’m interested in ...Software Deveopment, App Development, Machine Learning & Natural Language Processing  
-- 🌱 I’m currently learning ... Front-end Development Natural language Processing 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ... Front-end Development & Natural language Processing 
+- 💞️ I’m looking to collaborate on ...almost anything
 - 📫 How to reach me ...
 
 <!---
